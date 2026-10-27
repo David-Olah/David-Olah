@@ -32,6 +32,9 @@ A campaign wiki for tabletop RPG groups that publishes directly from an Obsidian
 **Stack:** React, Node.js, Express, PostgreSQL, WebSockets, TypeScript (Obsidian plugin)
 
 [Live demo](https://lorekeeper-my6h.onrender.com/c/the-ashen-vale-demo)
+Company Code: RIDGELINE
+Usernames: admin, manager, worker
+password: password
 
 ### [YinshAI](https://github.com/David-Olah/Yinsh_AI)
 
