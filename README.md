@@ -26,8 +26,11 @@ A tool tracking platform for construction companies. Every tool carries a QR lab
 [Live demo](https://app.quartermastersite.com)
 
 Company Code: RIDGELINE
+
 Usernames: admin, manager, worker
+
 password: password
+
 
 ### [Lorekeeper](https://github.com/David-Olah/Lorekeeper-showcase)
 
