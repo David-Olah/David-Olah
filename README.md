@@ -24,6 +24,9 @@ A tool tracking platform for construction companies. Every tool carries a QR lab
 **Stack:** TypeScript, Express 5, Prisma, PostgreSQL, React Native (Expo), React, Vite
 
 [Live demo](https://app.quartermastersite.com)
+Company Code: RIDGELINE
+Usernames: admin, manager, worker
+password: password
 
 ### [Lorekeeper](https://github.com/David-Olah/Lorekeeper-showcase)
 
@@ -32,9 +35,6 @@ A campaign wiki for tabletop RPG groups that publishes directly from an Obsidian
 **Stack:** React, Node.js, Express, PostgreSQL, WebSockets, TypeScript (Obsidian plugin)
 
 [Live demo](https://lorekeeper-my6h.onrender.com/c/the-ashen-vale-demo)
-Company Code: RIDGELINE
-Usernames: admin, manager, worker
-password: password
 
 ### [YinshAI](https://github.com/David-Olah/Yinsh_AI)
 
